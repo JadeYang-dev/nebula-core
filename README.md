@@ -33,3 +33,14 @@ pip install -r requirements.txt
 
 # Run the main script
 python main.py
+
+void-runner/
+│── main.py          # Entry point
+│── requirements.txt # Dependencies
+│── void/            # Core package
+│   ├── __init__.py
+│   ├── bots.py
+│   ├── web3_utils.py
+│   └── chaos.py
+└── README.md
+
