@@ -1,19 +1,17 @@
-# 🐍 VOID-RUNNER
+# 🐍 Jade-Yang DEV
 
-> Hack the void. Build the future. 🕶️
+Build the future. 🕶️
 
-This repo is my playground for random experiments:
-- ⚡ Discord bots
-- 🔮 Crypto + Web3 scripts
-- 🕹️ Automation madness
+This repo is my personal dev lab for random experiments:
+- ⚡ Community-driven ideas
+- 🔮 Crypto + Web3 explorations
+- 🧪 Automation & data tinkering
 
 ---
 
 ### 🛠️ Stack
 - Python 3.11+
 - Web3.py
-- Asyncio
-- Some dark magic 🪄
 
 ---
 
@@ -21,8 +19,8 @@ This repo is my playground for random experiments:
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourname/void-runner.git
-cd void-runner
+git clone https://github.com/yourname/jade-yang-dev.git
+cd jade-yang-dev
 
 # Create and activate virtualenv
 python -m venv venv
@@ -34,13 +32,4 @@ pip install -r requirements.txt
 # Run the main script
 python main.py
 
-void-runner/
-│── main.py          # Entry point
-│── requirements.txt # Dependencies
-│── void/            # Core package
-│   ├── __init__.py
-│   ├── bots.py
-│   ├── web3_utils.py
-│   └── chaos.py
-└── README.md
 
